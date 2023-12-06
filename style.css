@@ -113,6 +113,8 @@ footer {
     color: #f2f2f2;
     text-align: center;
     border-top: 10px solid #d98555;
+    padding-right: 1em;
+    padding-left: 1em;
   }
 footer ul {
     list-style-type: none;
